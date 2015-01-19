@@ -1,0 +1,18 @@
+{
+    application, jdlib_currying,
+    [
+        {description, ""},
+        {vsn, "1"},
+        {registered, []},
+        {
+            applications,
+            [
+                kernel,
+                stdlib
+            ]
+        },
+        {mod, {jdlib_currying_app, []}},
+        {env, []}
+    ]
+}.
+
