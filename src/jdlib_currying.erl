@@ -1,7 +1,7 @@
 %% @doc
 %% Functions currying.
 %%
-%% Copyright Joy Developing.
+%% @author Alexey Rybakov
 
 % Module name.
 -module(jdlib_currying).
