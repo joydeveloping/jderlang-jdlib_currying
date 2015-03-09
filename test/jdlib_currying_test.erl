@@ -1,7 +1,7 @@
 %% @doc
 %% Tests for jdlib_currying.
 %%
-%% Copyright Joy Developing.
+%% @author Alexey Rybakov
 
 % Module name.
 -module(jdlib_currying_test).
